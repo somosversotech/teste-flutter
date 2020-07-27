@@ -14,10 +14,9 @@
 ![Image of Yaktocat](https://raw.githubusercontent.com/BDTI/teste-flutter/master/assets/home.jpg)
 ![Image of Yaktocat](https://raw.githubusercontent.com/BDTI/teste-flutter/master/assets/incluir.jpg)
 
-Observações:
+#### Observações
 	- Não é necessário persistência dos dados
 	- Design/Layout livre
 	- Manter qualidade do Código
-
 
 Use seu conhecimento, consulte a documentação e o google, caso ainda houver dúvidas, nos pergunte :D. Boa sorte!
